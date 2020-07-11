@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=test Session
+Comment=test
+Exec=~/.dwm/launch.sh
+Icon=
+Type=Application
+DesktopNames=test
