@@ -13,7 +13,7 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 
 //CodingFontTobi1:style=Regular
 static const char *fonts[]          = { "Hack:size=8:antialias=false" };
-static const char dmenufont[]       = "monospace:size=10";
+static const char dmenufont[]       = "Hack:size=8:antialias=false" ;
 static const char col_gray1[]       = "#000000";
 static const char col_gray2[]       = "#442222";
 static const char col_gray3[]       = "#aa4444";
